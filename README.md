@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **wansari4540@gmail.com**
 
-- ⚡ Fun fact **I think i am fast lerner**
+- ⚡ Fun fact **I think i am fast learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
