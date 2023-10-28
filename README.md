@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/wasim_ansari_12" target="blank"><img src="https://img.shields.io/twitter/follow/wasim_ansari_12?logo=twitter&style=for-the-badge" alt="wasim_ansari_12" /></a> </p>
 
-- 🌱 I’m currently learning **angular , javascript**
+- 🌱 I’m currently learning  javascript**
 
 - 📫 How to reach me **wansari4540@gmail.com**
 
